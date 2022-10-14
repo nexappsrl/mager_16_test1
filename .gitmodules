@@ -1,0 +1,12 @@
+[submodule "GitLab/theme_mager"]
+	path = GitLab/theme_mager
+	url = git@gitlab.com:nexapp-srl/odoo/theme_mager.git
+	branch = 16.0
+[submodule "GitLab/na_website_scroll_top_bytesfuel"]
+	path = GitLab/na_website_scroll_top_bytesfuel
+	url = git@gitlab.com:nexapp-srl/odoo/na_website_scroll_top_bytesfuel.git
+	branch = 16.0
+[submodule "GitLab/na_mager_product"]
+	path = GitLab/na_mager_product
+	url = git@gitlab.com:nexapp-srl/odoo/na_mager_product.git
+	branch = 16.0
